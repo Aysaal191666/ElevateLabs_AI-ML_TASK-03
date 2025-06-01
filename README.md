@@ -85,3 +85,12 @@ While **Simple Linear Regression** and **Multiple Linear Regression** were **man
 - **R² Score**: Coefficient of Determination  
 
 ---
+
+## 🔍 Model Performance Comparison
+Among the four models tested, Simple Linear Regression performed the worst, showing the highest error and lowest R² score.
+Multiple Linear Regression, Polynomial Regression, and Ridge Regression all gave very similar results with much lower errors and higher accuracy.
+Ridge Regression slightly outperformed the others with the lowest Mean Absolute Error, indicating it is more robust and a better choice for this dataset.
+
+Overall, Ridge Regression is recommended for more reliable predictions on this housing price data.
+
+---
