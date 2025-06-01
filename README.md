@@ -10,9 +10,9 @@ While **Simple Linear Regression** and **Multiple Linear Regression** were **man
 ---
 
 ## 📁 Dataset  
-- **Name**: Housing Dataset  
-- **Source**: Provided internally  
-- **File Used**: `Housing.csv`  
+- **Name**: Housing Price Prediction Dataset  
+- **Source**: [Kaggle - Housing Price Prediction](https://www.kaggle.com/datasets/harishkumardatalab/housing-price-prediction)  
+- **File Used**: `Housing.csv`
 
 ---
 
@@ -83,12 +83,5 @@ While **Simple Linear Regression** and **Multiple Linear Regression** were **man
 - **MAE**: Mean Absolute Error  
 - **MSE**: Mean Squared Error  
 - **R² Score**: Coefficient of Determination  
-
----
-
-## ✅ Outcome
-
-This task demonstrated the end-to-end workflow of building, training, evaluating, and visualizing different **linear regression models**.  
-The optional models provided deeper insights into **model complexity** and **regularization** for improving generalization.
 
 ---
