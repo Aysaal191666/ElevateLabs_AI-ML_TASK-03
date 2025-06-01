@@ -64,7 +64,7 @@ While **Simple Linear Regression** and **Multiple Linear Regression** were **man
 | Simple Linear Regression  | ![Simple](Simple%20Linear%20Regression.png) |
 | Multiple Linear Regression| ![Multiple](Multiple%20Linear%20Regression.png) |
 | Polynomial Regression     | ![Polynomial](Polynomial%20Regression.png) |
-| Ridge Regression          | ![Ridge](ridge_regression_prediction.png)  |
+| Ridge Regression          | ![Ridge](Ridge%20Regression.png)  |
 
 ---
 
